@@ -1,0 +1,142 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>CRT310IC卡测试</title>
+<script language="javascript">
+/*
+外卡号也叫卡面号
+*/
+function signIn()
+{
+
+	var sRet = MisPosHandle(6215,0,"");
+alert(sRet);
+	showInfo(sRet);
+  //0#00
+}
+
+function readCard()
+{
+	var sRet = MisPosHandle(9901,0,"");
+	showInfo(sRet);
+	return sRet;
+  //0#00#000000010000# A23509531
+}
+function queryBalance()
+{
+  
+  
+	var sRet = MisPosHandle(1025,0,"");
+	showInfo(sRet);
+  //0#00#000000010000# A23509531
+}
+
+function queryKaiTong()
+{
+  
+	var sRet = MisPosHandle(81025,0,"");
+	showInfo(sRet);
+  //0#00#000000010000# A23509531
+}
+function kaiTongVerify()
+{
+  
+	var sRet = MisPosHandle(7003,0,"");
+	showInfo(sRet);
+  //0#00#000000010000# A23509531
+  //0#00#B10264014|银行测试14|362429198608225014
+}
+
+function kaiTong()
+{
+	var src="0001000000000001";
+	var sRet = MisPosHandle(7005,0,src);
+	showInfo(sRet);
+	//0#B2
+}
+
+function queryBind()
+{
+	var src = "310000张三                411381198006017179  1234567890123456789 100000    A10047737           ";
+	var sRet = MisPosHandle(1625,0,src);
+	showInfo(sRet);
+	
+	//0#00#390031258000#05800001#0000#1625#A10047737 #0320#154923#37 1303209#000000#000029#
+}
+
+function bind()
+{
+	var src = "310000张三                411381198006017179  1234567890123456789 100000    A10047737           ";
+	var sRet = MisPosHandle(1625,0,src);
+	showInfo(sRet);  
+	//0#00#390031258000#06600001#0000#1625#A10047737 #0320#155120#37 1303209#000000#000037#
+}
+
+function jieBind()
+{
+	var src = "200000张三                411381198006017179  1234567890123456789 A10047737           ";
+	var sRet = MisPosHandle(3625,0,src);
+	showInfo(sRet);  
+	//0#00#390031258000#06600001#0000#1625#A10047737 #0320#155120#37 1303209#000000#000037#
+}
+function changePwd()
+{
+	var src = "00010001张三                411381198006017179";
+	var sRet = MisPosHandle(1325,0,src);
+	showInfo(sRet);  
+	//0#00#390031258000#06600001#0000#1625#A10047737 #0320#155120#37 1303209#000000#000037#
+}
+function chongZhi()
+{
+  //src       充值渠道“现金0001，借记卡0002，贷记卡0003”+银行卡号（若现金充值，则全为初始化为0x00）“20字节ASCII，不足右补充0x00”+银行流水“20字节ASCII，不足右补0x00”
+	var sRet = MisPosHandle(7010,100,"00011234567890123456789011111111111111111111");
+	showInfo(sRet);
+  //0#00#125800000001#88888888#0000#7010#0000000000#0320#140455#130320959954#000001#000010#000000000100#00000000#000000000#000000612211#000000000000
+}
+
+
+
+function MisPosHandle(loprType,amt,src)
+{
+	alert(loprType + "====" + amt + "====" + src);
+	var smk = document.getElementById("smkOcx");
+	aaaaaaaaaa = smkOcx;
+	 var sRet = smk.MisPosHandle(loprType,amt,src);
+	 return sRet;
+}
+
+function showInfo(msg)
+{
+    var obj = document.getElementById('msg');
+    obj.innerHTML = msg;
+
+}
+</script>
+</head>
+
+<body>
+
+
+<input type="button" value="初始化"		onclick="signIn()" />
+<input type="button" value="卡状态查询"		onclick="readCard()" />
+<input type="button" value="余额查询"		onclick="queryBalance()" />
+<input type="button" value="可扣查询"		onclick="queryKaiTong()" />
+<input type="button" value="开通验证"		onclick="kaiTongVerify()" />
+<input type="button" value="开通"		onclick="kaiTong()" />
+<input type="button" value="充值"		onclick="chongZhi()" />
+<input type="button" value="绑定查询"		onclick="queryBind()" />
+<input type="button" value="绑定"		onclick="bind()" />
+<input type="button" value="解绑"		onclick="jieBind()" />
+<input type="button" value="修改密码"		onclick="changePwd()" />
+<div id='msg'></div>
+
+
+
+
+<object
+			id="smkOcx"
+			TYPE="application/x-itst-activex"
+			WIDTH="300" HEIGHT="300"
+			clsid="{E691A607-D1D2-48A7-A0EC-09511883A445}">
+	</object>
+</body>
+</html>

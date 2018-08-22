@@ -1,0 +1,1 @@
+regsvr32 MedIF339900Ocx.ocx

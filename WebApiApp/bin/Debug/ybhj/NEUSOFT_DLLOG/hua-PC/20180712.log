@@ -1,0 +1,351 @@
+2018-07-12 10:47:29==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 10:47:29==>INFORMATION: 
+
+2018-07-12 10:47:29==>INFORMATION: ***********************************************************************
+2018-07-12 10:47:29==>INFORMATION: SiInterface.dll开始初始化：
+2018-07-12 10:47:29==>INFORMATION: INIT(char*)第一次初始化!
+2018-07-12 10:47:29==>INFORMATION: INIT串为空
+2018-07-12 10:47:29==>INFORMATION: OS:  not Windows NT 4.0  Service Pack 1 (build 7601)
+2018-07-12 10:47:29==>INFORMATION: MFC版本=600,VC编译器版本=4b0
+2018-07-12 10:47:29==>INFORMATION: 时间戳:Mon Jul  8 10:35:16 2013
+2018-07-12 10:47:29==>INFORMATION: macro _UsingLicense isn't used!unInvoke license.ini checked File:line[124]
+2018-07-12 10:47:29==>WARNING    : 获取动态库版本信息发生错误，错误为：
+2018-07-12 10:47:29==>INFORMATION: Card.dll的版本号为:
+2018-07-12 10:47:29==>INFORMATION: CARDOPERATOR.cpp,56,开始初始化Card.dll动态库Init函数
+2018-07-12 10:47:29==>INFORMATION: 加载{Card.dll}成功,位置{120}
+2018-07-12 10:47:29==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:47:29==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:47:29==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:47:29==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:47:29==>INFOR_CARD  : IC卡
+2018-07-12 10:47:29==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:47:29==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:47:29==>INFORMATION: CARDOPERATOR.cpp,85,初始化Card.dll动态库Init函数结束
+2018-07-12 10:47:29==>INFORMATION: m_DllParameter=[m_MacAddr]{507B9D76E1D8}|[m_UserNum]{}|[m_RegionCode]{}|[m_Encryped]{}|[m_HospNo]{}|[过期时间]{}
+2018-07-12 10:47:29==>DEBUG      : 传入后台HIS数据为: 9130^^^^^^1005||||^82940592^
+2018-07-12 10:47:29==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:47:29==>INFORMATION: 新VerifyLicAuth.dll文件的版本:3005
+2018-07-12 10:47:30==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=2
+2018-07-12 10:47:30==>DEBUG      : 后台传出业务配置信息为: 1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^
+2018-07-12 10:47:30==>DEBUG      : 后台传出卡配置信息为: 
+2018-07-12 10:47:30==>INFORMATION: SiInterface.dll初始化成功！
+
+2018-07-12 10:47:30==>INFORMATION: SiInterfaceAPI.cpp,110.输入串地址:0x45ebec,长度:[17字节,0 KB]
+2018-07-12 10:47:30==>INFORMATION: SiInterfaceAPI.cpp,116.输出串地址:0x263fa8,长度:[0字节,0 KB]
+2018-07-12 10:47:30==>INFORMATION: ----------------------------------------------------------------------
+2018-07-12 10:47:30==>INFORMATION: 交易开始
+2018-07-12 10:47:30==>INFORMATION: INPUT FROM HIS = 获取入参信息失败!
+2018-07-12 10:47:30==>SEVERE     : HIS端输入数据格式有误，请检查！输入数据为：获取入参信息失败!
+2018-07-12 10:47:30==>INFORMATION: 出口处：返回值为：-2，传给his的数据为：HIS端输入数据格式有误，请检查！输入数据为：获取入参信息失败!
+2018-07-12 10:47:30==>INFORMATION: 交易结束
+2018-07-12 10:49:54==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 10:49:54==>INFORMATION: 
+
+2018-07-12 10:49:54==>INFORMATION: ***********************************************************************
+2018-07-12 10:49:54==>INFORMATION: SiInterface.dll开始初始化：
+2018-07-12 10:49:54==>INFORMATION: INIT(char*)第一次初始化!
+2018-07-12 10:49:54==>INFORMATION: INIT串为空
+2018-07-12 10:49:54==>INFORMATION: OS:  not Windows NT 4.0  Service Pack 1 (build 7601)
+2018-07-12 10:49:54==>INFORMATION: MFC版本=600,VC编译器版本=4b0
+2018-07-12 10:49:54==>INFORMATION: 时间戳:Mon Jul  8 10:35:16 2013
+2018-07-12 10:49:54==>INFORMATION: macro _UsingLicense isn't used!unInvoke license.ini checked File:line[124]
+2018-07-12 10:49:54==>WARNING    : 获取动态库版本信息发生错误，错误为：
+2018-07-12 10:49:54==>INFORMATION: Card.dll的版本号为:
+2018-07-12 10:49:54==>INFORMATION: CARDOPERATOR.cpp,56,开始初始化Card.dll动态库Init函数
+2018-07-12 10:49:54==>INFORMATION: 加载{Card.dll}成功,位置{120}
+2018-07-12 10:49:54==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:49:54==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:49:54==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:49:54==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:49:54==>INFOR_CARD  : IC卡
+2018-07-12 10:49:54==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:49:54==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:49:54==>INFORMATION: CARDOPERATOR.cpp,85,初始化Card.dll动态库Init函数结束
+2018-07-12 10:49:54==>INFORMATION: m_DllParameter=[m_MacAddr]{507B9D76E1D8}|[m_UserNum]{}|[m_RegionCode]{}|[m_Encryped]{}|[m_HospNo]{}|[过期时间]{}
+2018-07-12 10:49:54==>DEBUG      : 传入后台HIS数据为: 9130^^^^^^1005||||^132027056^
+2018-07-12 10:49:54==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:49:54==>INFORMATION: 新VerifyLicAuth.dll文件的版本:3005
+2018-07-12 10:49:54==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=2
+2018-07-12 10:49:54==>DEBUG      : 后台传出业务配置信息为: 1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^
+2018-07-12 10:49:54==>DEBUG      : 后台传出卡配置信息为: 
+2018-07-12 10:49:54==>INFORMATION: SiInterface.dll初始化成功！
+
+2018-07-12 10:49:54==>INFORMATION: SiInterfaceAPI.cpp,110.输入串地址:0x16eb1c,长度:[17字节,0 KB]
+2018-07-12 10:49:54==>INFORMATION: SiInterfaceAPI.cpp,116.输出串地址:0x4b7db8,长度:[0字节,0 KB]
+2018-07-12 10:49:54==>INFORMATION: ----------------------------------------------------------------------
+2018-07-12 10:49:54==>INFORMATION: 交易开始
+2018-07-12 10:49:54==>INFORMATION: INPUT FROM HIS = 获取入参信息失败!
+2018-07-12 10:49:54==>SEVERE     : HIS端输入数据格式有误，请检查！输入数据为：获取入参信息失败!
+2018-07-12 10:49:54==>INFORMATION: 出口处：返回值为：-2，传给his的数据为：HIS端输入数据格式有误，请检查！输入数据为：获取入参信息失败!
+2018-07-12 10:49:54==>INFORMATION: 交易结束
+2018-07-12 10:50:44==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 10:50:44==>INFORMATION: 
+
+2018-07-12 10:50:44==>INFORMATION: ***********************************************************************
+2018-07-12 10:50:44==>INFORMATION: SiInterface.dll开始初始化：
+2018-07-12 10:50:44==>INFORMATION: INIT(char*)第一次初始化!
+2018-07-12 10:50:44==>INFORMATION: INIT串为空
+2018-07-12 10:50:44==>INFORMATION: OS:  not Windows NT 4.0  Service Pack 1 (build 7601)
+2018-07-12 10:50:44==>INFORMATION: MFC版本=600,VC编译器版本=4b0
+2018-07-12 10:50:44==>INFORMATION: 时间戳:Mon Jul  8 10:35:16 2013
+2018-07-12 10:50:44==>INFORMATION: macro _UsingLicense isn't used!unInvoke license.ini checked File:line[124]
+2018-07-12 10:50:44==>WARNING    : 获取动态库版本信息发生错误，错误为：
+2018-07-12 10:50:44==>INFORMATION: Card.dll的版本号为:
+2018-07-12 10:50:44==>INFORMATION: CARDOPERATOR.cpp,56,开始初始化Card.dll动态库Init函数
+2018-07-12 10:50:44==>INFORMATION: 加载{Card.dll}成功,位置{120}
+2018-07-12 10:50:44==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:50:44==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:50:44==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:50:44==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:50:44==>INFOR_CARD  : IC卡
+2018-07-12 10:50:44==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:50:44==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:50:44==>INFORMATION: CARDOPERATOR.cpp,85,初始化Card.dll动态库Init函数结束
+2018-07-12 10:50:44==>INFORMATION: m_DllParameter=[m_MacAddr]{507B9D76E1D8}|[m_UserNum]{}|[m_RegionCode]{}|[m_Encryped]{}|[m_HospNo]{}|[过期时间]{}
+2018-07-12 10:50:44==>DEBUG      : 传入后台HIS数据为: 9130^^^^^^1005||||^119313072^
+2018-07-12 10:50:44==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:50:44==>INFORMATION: 新VerifyLicAuth.dll文件的版本:3005
+2018-07-12 10:50:45==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=2
+2018-07-12 10:50:45==>DEBUG      : 后台传出业务配置信息为: 1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^
+2018-07-12 10:50:45==>DEBUG      : 后台传出卡配置信息为: 
+2018-07-12 10:50:45==>INFORMATION: SiInterface.dll初始化成功！
+
+2018-07-12 10:50:45==>INFORMATION: SiInterfaceAPI.cpp,110.输入串地址:0x32ec7c,长度:[17字节,0 KB]
+2018-07-12 10:50:45==>INFORMATION: SiInterfaceAPI.cpp,116.输出串地址:0x7f6f00,长度:[0字节,0 KB]
+2018-07-12 10:50:45==>INFORMATION: ----------------------------------------------------------------------
+2018-07-12 10:50:45==>INFORMATION: 交易开始
+2018-07-12 10:50:45==>INFORMATION: INPUT FROM HIS = 获取入参信息失败!
+2018-07-12 10:50:45==>SEVERE     : HIS端输入数据格式有误，请检查！输入数据为：获取入参信息失败!
+2018-07-12 10:50:45==>INFORMATION: 出口处：返回值为：-2，传给his的数据为：HIS端输入数据格式有误，请检查！输入数据为：获取入参信息失败!
+2018-07-12 10:50:45==>INFORMATION: 交易结束
+2018-07-12 10:52:00==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 10:52:00==>INFORMATION: 
+
+2018-07-12 10:52:00==>INFORMATION: ***********************************************************************
+2018-07-12 10:52:00==>INFORMATION: SiInterface.dll开始初始化：
+2018-07-12 10:52:00==>INFORMATION: INIT(char*)第一次初始化!
+2018-07-12 10:52:00==>INFORMATION: INIT串为空
+2018-07-12 10:52:00==>INFORMATION: OS:  not Windows NT 4.0  Service Pack 1 (build 7601)
+2018-07-12 10:52:00==>INFORMATION: MFC版本=600,VC编译器版本=4b0
+2018-07-12 10:52:00==>INFORMATION: 时间戳:Mon Jul  8 10:35:16 2013
+2018-07-12 10:52:00==>INFORMATION: macro _UsingLicense isn't used!unInvoke license.ini checked File:line[124]
+2018-07-12 10:52:00==>WARNING    : 获取动态库版本信息发生错误，错误为：
+2018-07-12 10:52:00==>INFORMATION: Card.dll的版本号为:
+2018-07-12 10:52:00==>INFORMATION: CARDOPERATOR.cpp,56,开始初始化Card.dll动态库Init函数
+2018-07-12 10:52:00==>INFORMATION: 加载{Card.dll}成功,位置{120}
+2018-07-12 10:52:00==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:52:00==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:52:00==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:52:00==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:52:00==>INFOR_CARD  : IC卡
+2018-07-12 10:52:00==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:52:00==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:52:00==>INFORMATION: CARDOPERATOR.cpp,85,初始化Card.dll动态库Init函数结束
+2018-07-12 10:52:00==>INFORMATION: m_DllParameter=[m_MacAddr]{507B9D76E1D8}|[m_UserNum]{}|[m_RegionCode]{}|[m_Encryped]{}|[m_HospNo]{}|[过期时间]{}
+2018-07-12 10:52:00==>DEBUG      : 传入后台HIS数据为: 9130^^^^^^1005||||^124031664^
+2018-07-12 10:52:00==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:52:00==>INFORMATION: 新VerifyLicAuth.dll文件的版本:3005
+2018-07-12 10:52:00==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=2
+2018-07-12 10:52:00==>DEBUG      : 后台传出业务配置信息为: 1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^
+2018-07-12 10:52:00==>DEBUG      : 后台传出卡配置信息为: 
+2018-07-12 10:52:00==>INFORMATION: SiInterface.dll初始化成功！
+
+2018-07-12 10:52:00==>INFORMATION: SiInterfaceAPI.cpp,110.输入串地址:0x7ffca70,长度:[136字节,0 KB]
+2018-07-12 10:52:00==>INFORMATION: SiInterfaceAPI.cpp,116.输出串地址:0x534f98,长度:[0字节,0 KB]
+2018-07-12 10:52:00==>INFORMATION: ----------------------------------------------------------------------
+2018-07-12 10:52:00==>INFORMATION: 交易开始
+2018-07-12 10:52:00==>INFORMATION: INPUT FROM HIS = 2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105155-3016-1202^0^330100D15600000501000B4AB9134248|20180712105155|^1^
+2018-07-12 10:52:00==>INFORMATION: UKEY状态:1{0无UKEY,1有UKEY}
+2018-07-12 10:52:00==>INFORMATION: 进入校验KEY,位置{3612}
+2018-07-12 10:52:00==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:52:00==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:52:00==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:52:00==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:52:00==>INFOR_CARD  : IC卡
+2018-07-12 10:52:00==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:52:00==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:52:00==>INFORMATION: 交易号:2100,进行403子项[]
+2018-07-12 10:52:00==>INFORMATION: 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj
+2018-07-12 10:52:00==>INFORMATION: 获得城市名...HangZhou
+2018-07-12 10:52:00==>INFORMATION: 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:52:00==>INFORMATION: 磁条卡
+2018-07-12 10:52:00==>INFORMATION: 获得端口号...1
+2018-07-12 10:52:00==>INFORMATION: 获得波特率...115200
+2018-07-12 10:52:00==>INFORMATION: 城市:HangZhou,城市指针:0x0
+2018-07-12 10:52:00==>INFORMATION: [CCSSMode::Start]在类工厂中未使用城市Start:HangZhou,城市!
+2018-07-12 10:52:00==>INFORMATION: 交易号:2100,进行0子项[]
+2018-07-12 10:52:00==>DEBUG      : 传入后台HIS数据为: 2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105155-3016-1202^0^330100D15600000501000B4AB9134248|20180712105155|^1^
+2018-07-12 10:52:00==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:52:00==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=1
+2018-07-12 10:52:00==>INFORMATION: EapAgent_GetParameter,地址:534f98
+2018-07-12 10:52:00==>INFORMATION: 从EapAgent_GetParameter获得信息
+2018-07-12 10:52:00==>DEBUG      : 后台返回给HIS的数据为: 20180712105157-3016-8003^1^71558396|0109177|创业软件股份有限公司|330501199007231612|高欢|1||19900723|W4177461X|11||330100|2018|0|1064.5|0.0|0000000000|3||000|0|+|162.5|2036.36|0.0|0.0|0.0|0.0|0|330100D15600000501000B4AB9134248|12|0.0|0.0|1||^^
+2018-07-12 10:52:00==>DEBUG      : 后台传出写卡信息为: 
+2018-07-12 10:52:00==>INFORMATION: CallCenterServer所用时间:0.00
+
+2018-07-12 10:52:00==>INFORMATION: 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj
+2018-07-12 10:52:00==>INFORMATION: 获得城市名...HangZhou
+2018-07-12 10:52:00==>INFORMATION: 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:52:00==>INFORMATION: 磁条卡
+2018-07-12 10:52:00==>INFORMATION: 获得端口号...1
+2018-07-12 10:52:00==>INFORMATION: 获得波特率...115200
+2018-07-12 10:52:00==>INFORMATION: 城市:HangZhou,城市指针:0x0
+2018-07-12 10:52:00==>INFORMATION: [CCSSMode::Start]在类工厂中未使用城市Start:HangZhou,城市!
+2018-07-12 10:52:00==>INFORMATION: 出口处：返回值为：0，传给his的数据为：20180712105157-3016-8003^1^71558396|0109177|创业软件股份有限公司|330501199007231612|高欢|1||19900723|W4177461X|11||330100|2018|0|1064.5|0.0|0000000000|3||000|0|+|162.5|2036.36|0.0|0.0|0.0|0.0|0|330100D15600000501000B4AB9134248|12|0.0|0.0|1||^^
+2018-07-12 10:52:00==>INFORMATION: 交易结束
+2018-07-12 10:54:31==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 10:54:31==>INFORMATION: 
+
+2018-07-12 10:54:31==>INFORMATION: ***********************************************************************
+2018-07-12 10:54:31==>INFORMATION: SiInterface.dll开始初始化：
+2018-07-12 10:54:31==>INFORMATION: INIT(char*)第一次初始化!
+2018-07-12 10:54:31==>INFORMATION: INIT串为空
+2018-07-12 10:54:31==>INFORMATION: OS:  not Windows NT 4.0  Service Pack 1 (build 7601)
+2018-07-12 10:54:31==>INFORMATION: MFC版本=600,VC编译器版本=4b0
+2018-07-12 10:54:31==>INFORMATION: 时间戳:Mon Jul  8 10:35:16 2013
+2018-07-12 10:54:31==>INFORMATION: macro _UsingLicense isn't used!unInvoke license.ini checked File:line[124]
+2018-07-12 10:54:31==>WARNING    : 获取动态库版本信息发生错误，错误为：
+2018-07-12 10:54:31==>INFORMATION: Card.dll的版本号为:
+2018-07-12 10:54:31==>INFORMATION: CARDOPERATOR.cpp,56,开始初始化Card.dll动态库Init函数
+2018-07-12 10:54:31==>INFORMATION: 加载{Card.dll}成功,位置{120}
+2018-07-12 10:54:31==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:54:31==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:54:31==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:54:31==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:54:31==>INFOR_CARD  : IC卡
+2018-07-12 10:54:31==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:54:31==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:54:31==>INFORMATION: CARDOPERATOR.cpp,85,初始化Card.dll动态库Init函数结束
+2018-07-12 10:54:31==>INFORMATION: m_DllParameter=[m_MacAddr]{507B9D76E1D8}|[m_UserNum]{}|[m_RegionCode]{}|[m_Encryped]{}|[m_HospNo]{}|[过期时间]{}
+2018-07-12 10:54:31==>DEBUG      : 传入后台HIS数据为: 9130^^^^^^1005||||^123572912^
+2018-07-12 10:54:31==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:54:31==>INFORMATION: 新VerifyLicAuth.dll文件的版本:3005
+2018-07-12 10:54:31==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=2
+2018-07-12 10:54:31==>DEBUG      : 后台传出业务配置信息为: 1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^
+2018-07-12 10:54:31==>DEBUG      : 后台传出卡配置信息为: 
+2018-07-12 10:54:31==>INFORMATION: SiInterface.dll初始化成功！
+
+2018-07-12 10:54:31==>INFORMATION: SiInterfaceAPI.cpp,110.输入串地址:0x3573b8,长度:[136字节,0 KB]
+2018-07-12 10:54:31==>INFORMATION: SiInterfaceAPI.cpp,116.输出串地址:0x3177f8,长度:[0字节,0 KB]
+2018-07-12 10:54:31==>INFORMATION: ----------------------------------------------------------------------
+2018-07-12 10:54:31==>INFORMATION: 交易开始
+2018-07-12 10:54:31==>INFORMATION: INPUT FROM HIS = 2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105426-3016-5150^0^330100D15600000501000B4AB9134248|20180712105426|^1^
+2018-07-12 10:54:31==>INFORMATION: UKEY状态:1{0无UKEY,1有UKEY}
+2018-07-12 10:54:31==>INFORMATION: 进入校验KEY,位置{3612}
+2018-07-12 10:54:31==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 10:54:31==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 10:54:31==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 10:54:31==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:54:31==>INFOR_CARD  : IC卡
+2018-07-12 10:54:31==>INFOR_CARD  : 获得端口号...1
+2018-07-12 10:54:31==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 10:54:31==>INFORMATION: 交易号:2100,进行403子项[]
+2018-07-12 10:54:31==>INFORMATION: 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj
+2018-07-12 10:54:31==>INFORMATION: 获得城市名...HangZhou
+2018-07-12 10:54:31==>INFORMATION: 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:54:31==>INFORMATION: 磁条卡
+2018-07-12 10:54:31==>INFORMATION: 获得端口号...1
+2018-07-12 10:54:31==>INFORMATION: 获得波特率...115200
+2018-07-12 10:54:31==>INFORMATION: 城市:HangZhou,城市指针:0x0
+2018-07-12 10:54:31==>INFORMATION: [CCSSMode::Start]在类工厂中未使用城市Start:HangZhou,城市!
+2018-07-12 10:54:31==>INFORMATION: 交易号:2100,进行0子项[]
+2018-07-12 10:54:31==>DEBUG      : 传入后台HIS数据为: 2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105426-3016-5150^0^330100D15600000501000B4AB9134248|20180712105426|^1^
+2018-07-12 10:54:31==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 10:54:31==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=1
+2018-07-12 10:54:31==>INFORMATION: EapAgent_GetParameter,地址:3177f8
+2018-07-12 10:54:31==>INFORMATION: 从EapAgent_GetParameter获得信息
+2018-07-12 10:54:31==>DEBUG      : 后台返回给HIS的数据为: 20180712105428-3016-9425^1^71558396|0109177|创业软件股份有限公司|330501199007231612|高欢|1||19900723|W4177461X|11||330100|2018|0|1064.5|0.0|0000000000|3||000|0|+|162.5|2036.36|0.0|0.0|0.0|0.0|0|330100D15600000501000B4AB9134248|12|0.0|0.0|1||^^
+2018-07-12 10:54:31==>DEBUG      : 后台传出写卡信息为: 
+2018-07-12 10:54:31==>INFORMATION: CallCenterServer所用时间:0.00
+
+2018-07-12 10:54:31==>INFORMATION: 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj
+2018-07-12 10:54:31==>INFORMATION: 获得城市名...HangZhou
+2018-07-12 10:54:31==>INFORMATION: 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 10:54:31==>INFORMATION: 磁条卡
+2018-07-12 10:54:31==>INFORMATION: 获得端口号...1
+2018-07-12 10:54:31==>INFORMATION: 获得波特率...115200
+2018-07-12 10:54:31==>INFORMATION: 城市:HangZhou,城市指针:0x0
+2018-07-12 10:54:31==>INFORMATION: [CCSSMode::Start]在类工厂中未使用城市Start:HangZhou,城市!
+2018-07-12 10:54:31==>INFORMATION: 出口处：返回值为：0，传给his的数据为：20180712105428-3016-9425^1^71558396|0109177|创业软件股份有限公司|330501199007231612|高欢|1||19900723|W4177461X|11||330100|2018|0|1064.5|0.0|0000000000|3||000|0|+|162.5|2036.36|0.0|0.0|0.0|0.0|0|330100D15600000501000B4AB9134248|12|0.0|0.0|1||^^
+2018-07-12 10:54:31==>INFORMATION: 交易结束
+2018-07-12 15:59:24==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 15:59:24==>INFORMATION: 
+
+2018-07-12 15:59:24==>INFORMATION: ***********************************************************************
+2018-07-12 15:59:24==>INFORMATION: SiInterface.dll开始初始化：
+2018-07-12 15:59:24==>INFORMATION: INIT(char*)第一次初始化!
+2018-07-12 15:59:24==>INFORMATION: INIT串为空
+2018-07-12 15:59:24==>INFORMATION: OS:  not Windows NT 4.0  Service Pack 1 (build 7601)
+2018-07-12 15:59:24==>INFORMATION: MFC版本=600,VC编译器版本=4b0
+2018-07-12 15:59:24==>INFORMATION: 时间戳:Mon Jul  8 10:35:16 2013
+2018-07-12 15:59:24==>INFORMATION: macro _UsingLicense isn't used!unInvoke license.ini checked File:line[124]
+2018-07-12 15:59:24==>WARNING    : 获取动态库版本信息发生错误，错误为：
+2018-07-12 15:59:24==>INFORMATION: Card.dll的版本号为:
+2018-07-12 15:59:24==>INFORMATION: CARDOPERATOR.cpp,56,开始初始化Card.dll动态库Init函数
+2018-07-12 15:59:24==>INFORMATION: 加载{Card.dll}成功,位置{120}
+2018-07-12 15:59:24==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 15:59:24==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 15:59:24==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 15:59:24==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 15:59:24==>INFOR_CARD  : IC卡
+2018-07-12 15:59:24==>INFOR_CARD  : 获得端口号...1
+2018-07-12 15:59:24==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 15:59:24==>INFORMATION: CARDOPERATOR.cpp,85,初始化Card.dll动态库Init函数结束
+2018-07-12 15:59:24==>INFORMATION: m_DllParameter=[m_MacAddr]{507B9D76E1D8}|[m_UserNum]{}|[m_RegionCode]{}|[m_Encryped]{}|[m_HospNo]{}|[过期时间]{}
+2018-07-12 15:59:24==>DEBUG      : 传入后台HIS数据为: 9130^^^^^^1005||||^268669616^
+2018-07-12 15:59:24==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 15:59:24==>INFORMATION: 新VerifyLicAuth.dll文件的版本:3005
+2018-07-12 15:59:36==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=2
+2018-07-12 15:59:36==>DEBUG      : 后台传出业务配置信息为: 1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^
+2018-07-12 15:59:36==>DEBUG      : 后台传出卡配置信息为: 
+2018-07-12 15:59:36==>INFORMATION: SiInterface.dll初始化成功！
+
+2018-07-12 16:02:24==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 16:02:24==>INFORMATION: INIT(char*)已经初始化!
+2018-07-12 16:02:49==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 16:02:49==>INFORMATION: INIT(char*)已经初始化!
+2018-07-12 16:03:22==>INFORMATION: 乌市 未使用宏UsingLicense，未使用收费端license,FILE:InterfaceBusiHandler.cpp,LINE:85
+2018-07-12 16:03:22==>INFORMATION: INIT(char*)已经初始化!
+2018-07-12 16:03:22==>INFORMATION: SiInterfaceAPI.cpp,110.输入串地址:0x63b4b0,长度:[136字节,0 KB]
+2018-07-12 16:03:22==>INFORMATION: SiInterfaceAPI.cpp,116.输出串地址:0x5e85a8,长度:[0字节,0 KB]
+2018-07-12 16:03:22==>INFORMATION: ----------------------------------------------------------------------
+2018-07-12 16:03:22==>INFORMATION: 交易开始
+2018-07-12 16:03:22==>INFORMATION: INPUT FROM HIS = 2100^3016^801110^20180712145728-3016-00801110-1918|330100^20180712160318-3016-3089^0^330100D1560000050100843FFA127048|20180712160317|^1^
+2018-07-12 16:03:22==>INFORMATION: UKEY状态:1{0无UKEY,1有UKEY}
+2018-07-12 16:03:22==>INFORMATION: 进入校验KEY,位置{3612}
+2018-07-12 16:03:22==>INFOR_CARD  : Card.dll版本:10055
+2018-07-12 16:03:22==>INFOR_CARD  : 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj\
+2018-07-12 16:03:22==>INFOR_CARD  : 获得城市名...HangZhou
+2018-07-12 16:03:22==>INFOR_CARD  : 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 16:03:22==>INFOR_CARD  : IC卡
+2018-07-12 16:03:22==>INFOR_CARD  : 获得端口号...1
+2018-07-12 16:03:22==>INFOR_CARD  : 获得波特率...115200
+2018-07-12 16:03:22==>INFORMATION: 交易号:2100,进行403子项[]
+2018-07-12 16:03:22==>INFORMATION: 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj
+2018-07-12 16:03:22==>INFORMATION: 获得城市名...HangZhou
+2018-07-12 16:03:22==>INFORMATION: 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 16:03:22==>INFORMATION: 磁条卡
+2018-07-12 16:03:22==>INFORMATION: 获得端口号...1
+2018-07-12 16:03:22==>INFORMATION: 获得波特率...115200
+2018-07-12 16:03:22==>INFORMATION: 城市:HangZhou,城市指针:0x0
+2018-07-12 16:03:22==>INFORMATION: [CCSSMode::Start]在类工厂中未使用城市Start:HangZhou,城市!
+2018-07-12 16:03:22==>INFORMATION: 交易号:2100,进行0子项[]
+2018-07-12 16:03:22==>DEBUG      : 传入后台HIS数据为: 2100^3016^801110^20180712145728-3016-00801110-1918|330100^20180712160318-3016-3089^0^330100D1560000050100843FFA127048|20180712160317|^1^
+2018-07-12 16:03:22==>DEBUG      : 传入后台读卡信息为: 
+2018-07-12 16:03:22==>INFORMATION: CSSMode.cpp,2018.GetAppCode成功.iBusiType=1
+2018-07-12 16:03:22==>INFORMATION: EapAgent_GetParameter,地址:5e85a8
+2018-07-12 16:03:22==>INFORMATION: 从EapAgent_GetParameter获得信息
+2018-07-12 16:03:22==>DEBUG      : 后台返回给HIS的数据为: 20180712160319-3016-9216^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^
+2018-07-12 16:03:22==>DEBUG      : 后台传出写卡信息为: 
+2018-07-12 16:03:22==>INFORMATION: CallCenterServer所用时间:0.00
+
+2018-07-12 16:03:22==>INFORMATION: 获得参数的文件夹:D:\Workspaces\c#\WebApiApp\WebApiApp\bin\Debug\ybhj
+2018-07-12 16:03:22==>INFORMATION: 获得城市名...HangZhou
+2018-07-12 16:03:22==>INFORMATION: 卡商动态库名称:ICCInter_hz.dll
+2018-07-12 16:03:22==>INFORMATION: 磁条卡
+2018-07-12 16:03:22==>INFORMATION: 获得端口号...1
+2018-07-12 16:03:22==>INFORMATION: 获得波特率...115200
+2018-07-12 16:03:22==>INFORMATION: 城市:HangZhou,城市指针:0x0
+2018-07-12 16:03:22==>INFORMATION: [CCSSMode::Start]在类工厂中未使用城市Start:HangZhou,城市!
+2018-07-12 16:03:22==>INFORMATION: 出口处：返回值为：0，传给his的数据为：20180712160319-3016-9216^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^
+2018-07-12 16:03:22==>INFORMATION: 交易结束

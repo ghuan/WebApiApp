@@ -1,0 +1,908 @@
+2018-07-12 10:47:29==>INFORMATION: ****************************************************************
+2018-07-12 10:47:29==>INFORMATION: eapagent.dll开始初始化：
+2018-07-12 10:47:29==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-12 10:47:29==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:47:29==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:47:29==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^82940592^
+2018-07-12 10:47:29==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^82940592^
+2018-07-12 10:47:29==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:47:30==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005408970807"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:47:30==>DEBUG: 远程请求结束
+2018-07-12 10:47:30==>DEBUG: 开始解析XML
+2018-07-12 10:47:30==>DEBUG: 解析XML结束
+2018-07-12 10:49:54==>INFORMATION: ****************************************************************
+2018-07-12 10:49:54==>INFORMATION: eapagent.dll开始初始化：
+2018-07-12 10:49:54==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-12 10:49:54==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:49:54==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:49:54==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^132027056^
+2018-07-12 10:49:54==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^132027056^
+2018-07-12 10:49:54==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:49:54==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005408998392"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:49:54==>DEBUG: 远程请求结束
+2018-07-12 10:49:54==>DEBUG: 开始解析XML
+2018-07-12 10:49:54==>DEBUG: 解析XML结束
+2018-07-12 10:50:44==>INFORMATION: ****************************************************************
+2018-07-12 10:50:44==>INFORMATION: eapagent.dll开始初始化：
+2018-07-12 10:50:44==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-12 10:50:44==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:50:44==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:50:44==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^119313072^
+2018-07-12 10:50:44==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^119313072^
+2018-07-12 10:50:44==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:50:45==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005409010440"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:50:45==>DEBUG: 远程请求结束
+2018-07-12 10:50:45==>DEBUG: 开始解析XML
+2018-07-12 10:50:45==>DEBUG: 解析XML结束
+2018-07-12 10:52:00==>INFORMATION: ****************************************************************
+2018-07-12 10:52:00==>INFORMATION: eapagent.dll开始初始化：
+2018-07-12 10:52:00==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-12 10:52:00==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:52:00==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:52:00==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^124031664^
+2018-07-12 10:52:00==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^124031664^
+2018-07-12 10:52:00==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:52:00==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005409024165"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:52:00==>DEBUG: 远程请求结束
+2018-07-12 10:52:00==>DEBUG: 开始解析XML
+2018-07-12 10:52:00==>DEBUG: 解析XML结束
+2018-07-12 10:52:00==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:52:00==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:52:00==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105155-3016-1202^0^330100D15600000501000B4AB9134248|20180712105155|^1^
+2018-07-12 10:52:00==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105155-3016-1202^0^330100D15600000501000B4AB9134248|20180712105155|^1^
+2018-07-12 10:52:00==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:52:00==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005409024170"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180712105157-3016-8003^1^71558396|0109177|创业软件股份有限公司|330501199007231612|高欢|1||19900723|W4177461X|11||330100|2018|0|1064.5|0.0|0000000000|3||000|0|+|162.5|2036.36|0.0|0.0|0.0|0.0|0|330100D15600000501000B4AB9134248|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:52:00==>DEBUG: 远程请求结束
+2018-07-12 10:52:00==>DEBUG: 开始解析XML
+2018-07-12 10:52:00==>DEBUG: 解析XML结束
+2018-07-12 10:54:31==>INFORMATION: ****************************************************************
+2018-07-12 10:54:31==>INFORMATION: eapagent.dll开始初始化：
+2018-07-12 10:54:31==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-12 10:54:31==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:54:31==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:54:31==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^123572912^
+2018-07-12 10:54:31==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^123572912^
+2018-07-12 10:54:31==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:54:31==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005409050313"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:54:31==>DEBUG: 远程请求结束
+2018-07-12 10:54:31==>DEBUG: 开始解析XML
+2018-07-12 10:54:31==>DEBUG: 解析XML结束
+2018-07-12 10:54:31==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 10:54:31==>DEBUG: 远程请求==>default：开始
+2018-07-12 10:54:31==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105426-3016-5150^0^330100D15600000501000B4AB9134248|20180712105426|^1^
+2018-07-12 10:54:31==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801110^20180712073559-3016-00801110-6384|330100^20180712105426-3016-5150^0^330100D15600000501000B4AB9134248|20180712105426|^1^
+2018-07-12 10:54:31==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 10:54:31==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005409050322"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180712105428-3016-9425^1^71558396|0109177|创业软件股份有限公司|330501199007231612|高欢|1||19900723|W4177461X|11||330100|2018|0|1064.5|0.0|0000000000|3||000|0|+|162.5|2036.36|0.0|0.0|0.0|0.0|0|330100D15600000501000B4AB9134248|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 10:54:31==>DEBUG: 远程请求结束
+2018-07-12 10:54:31==>DEBUG: 开始解析XML
+2018-07-12 10:54:31==>DEBUG: 解析XML结束
+2018-07-12 15:59:24==>INFORMATION: ****************************************************************
+2018-07-12 15:59:24==>INFORMATION: eapagent.dll开始初始化：
+2018-07-12 15:59:24==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-12 15:59:24==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 15:59:24==>DEBUG: 远程请求==>default：开始
+2018-07-12 15:59:24==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-12 15:59:24==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-12 15:59:24==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 15:59:36==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005411262810"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 15:59:36==>DEBUG: 远程请求结束
+2018-07-12 15:59:36==>DEBUG: 开始解析XML
+2018-07-12 15:59:36==>DEBUG: 解析XML结束
+2018-07-12 16:03:22==>DEBUG: ----------------------------------------------------------------------
+2018-07-12 16:03:22==>DEBUG: 远程请求==>default：开始
+2018-07-12 16:03:22==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801110^20180712145728-3016-00801110-1918|330100^20180712160318-3016-3089^0^330100D1560000050100843FFA127048|20180712160317|^1^
+2018-07-12 16:03:22==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801110^20180712145728-3016-00801110-1918|330100^20180712160318-3016-3089^0^330100D1560000050100843FFA127048|20180712160317|^1^
+2018-07-12 16:03:22==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-12 16:03:22==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005411296295"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180712160319-3016-9216^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-12 16:03:22==>DEBUG: 远程请求结束
+2018-07-12 16:03:22==>DEBUG: 开始解析XML
+2018-07-12 16:03:22==>DEBUG: 解析XML结束
+2018-07-13 10:57:06==>INFORMATION: ****************************************************************
+2018-07-13 10:57:06==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 10:57:06==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 10:57:06==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 10:57:06==>DEBUG: 远程请求==>default：开始
+2018-07-13 10:57:06==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 10:57:06==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 10:57:06==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 10:57:06==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416176265"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 10:57:06==>DEBUG: 远程请求结束
+2018-07-13 10:57:06==>DEBUG: 开始解析XML
+2018-07-13 10:57:06==>DEBUG: 解析XML结束
+2018-07-13 11:04:22==>INFORMATION: ****************************************************************
+2018-07-13 11:04:22==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:04:22==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:04:22==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:04:22==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:04:22==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:04:22==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:04:22==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:04:22==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416794901"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:04:22==>DEBUG: 远程请求结束
+2018-07-13 11:04:22==>DEBUG: 开始解析XML
+2018-07-13 11:04:22==>DEBUG: 解析XML结束
+2018-07-13 11:04:55==>INFORMATION: ****************************************************************
+2018-07-13 11:04:55==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:04:55==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:04:55==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:04:55==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:04:55==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:04:55==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:04:55==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:04:55==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416805480"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:04:55==>DEBUG: 远程请求结束
+2018-07-13 11:04:55==>DEBUG: 开始解析XML
+2018-07-13 11:04:55==>DEBUG: 解析XML结束
+2018-07-13 11:05:25==>INFORMATION: ****************************************************************
+2018-07-13 11:05:25==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:05:25==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:05:25==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:05:25==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:05:25==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:05:25==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:05:25==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:05:25==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416810510"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:05:25==>DEBUG: 远程请求结束
+2018-07-13 11:05:25==>DEBUG: 开始解析XML
+2018-07-13 11:05:25==>DEBUG: 解析XML结束
+2018-07-13 11:05:26==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:05:26==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:05:26==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713110520-3016-8571^0^330100D1560000050100843FFA127048|20180713110519|^1^
+2018-07-13 11:05:26==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713110520-3016-8571^0^330100D1560000050100843FFA127048|20180713110519|^1^
+2018-07-13 11:05:26==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:05:26==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416809842"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713110521-3016-9504^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:05:26==>DEBUG: 远程请求结束
+2018-07-13 11:05:26==>DEBUG: 开始解析XML
+2018-07-13 11:05:26==>DEBUG: 解析XML结束
+2018-07-13 11:12:01==>INFORMATION: ****************************************************************
+2018-07-13 11:12:01==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:12:01==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:12:01==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:12:01==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:12:01==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:12:01==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:12:01==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:12:02==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416884841"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:12:02==>DEBUG: 远程请求结束
+2018-07-13 11:12:02==>DEBUG: 开始解析XML
+2018-07-13 11:12:02==>DEBUG: 解析XML结束
+2018-07-13 11:12:03==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:12:03==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:12:03==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111157-3016-3851^0^330100D1560000050100843FFA127048|20180713111156|^1^
+2018-07-13 11:12:03==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111157-3016-3851^0^330100D1560000050100843FFA127048|20180713111156|^1^
+2018-07-13 11:12:03==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:12:03==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416885941"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111159-3016-1332^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:12:03==>DEBUG: 远程请求结束
+2018-07-13 11:12:03==>DEBUG: 开始解析XML
+2018-07-13 11:12:03==>DEBUG: 解析XML结束
+2018-07-13 11:14:19==>INFORMATION: ****************************************************************
+2018-07-13 11:14:19==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:14:19==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:14:19==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:14:19==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:14:19==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:14:19==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:14:19==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:14:20==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416995720"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:14:20==>DEBUG: 远程请求结束
+2018-07-13 11:14:20==>DEBUG: 开始解析XML
+2018-07-13 11:14:20==>DEBUG: 解析XML结束
+2018-07-13 11:14:21==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:14:21==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:14:21==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111414-3016-2014^0^330100D1560000050100843FFA127048|20180713111414|^1^
+2018-07-13 11:14:21==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111414-3016-2014^0^330100D1560000050100843FFA127048|20180713111414|^1^
+2018-07-13 11:14:21==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:14:21==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005416995777"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111416-3016-7010^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:14:21==>DEBUG: 远程请求结束
+2018-07-13 11:14:21==>DEBUG: 开始解析XML
+2018-07-13 11:14:21==>DEBUG: 解析XML结束
+2018-07-13 11:14:50==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:14:50==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:14:50==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111444-3016-0443^0^330100D1560000050100843FFA127048|20180713111444|^1^
+2018-07-13 11:14:50==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111444-3016-0443^0^330100D1560000050100843FFA127048|20180713111444|^1^
+2018-07-13 11:14:50==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:14:51==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417032321"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111446-3016-1208^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:14:51==>DEBUG: 远程请求结束
+2018-07-13 11:14:51==>DEBUG: 开始解析XML
+2018-07-13 11:14:51==>DEBUG: 解析XML结束
+2018-07-13 11:16:10==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:16:10==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:16:10==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111604-3016-0479^0^330100D1560000050100843FFA127048|20180713111604|^1^
+2018-07-13 11:16:10==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111604-3016-0479^0^330100D1560000050100843FFA127048|20180713111604|^1^
+2018-07-13 11:16:10==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:16:10==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417097401"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111606-3016-9136^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:16:10==>DEBUG: 远程请求结束
+2018-07-13 11:16:10==>DEBUG: 开始解析XML
+2018-07-13 11:16:10==>DEBUG: 解析XML结束
+2018-07-13 11:16:19==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:16:19==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:16:19==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111613-3016-3158^0^330100D1560000050100843FFA127048|20180713111613|^1^
+2018-07-13 11:16:19==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111613-3016-3158^0^330100D1560000050100843FFA127048|20180713111613|^1^
+2018-07-13 11:16:19==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:16:19==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417119323"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111615-3016-1088^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:16:19==>DEBUG: 远程请求结束
+2018-07-13 11:16:19==>DEBUG: 开始解析XML
+2018-07-13 11:16:19==>DEBUG: 解析XML结束
+2018-07-13 11:16:51==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:16:51==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:16:51==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111645-3016-2645^0^330100D1560000050100843FFA127048|20180713111645|^1^
+2018-07-13 11:16:51==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111645-3016-2645^0^330100D1560000050100843FFA127048|20180713111645|^1^
+2018-07-13 11:16:51==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:16:52==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417151466"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111647-3016-4162^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:16:52==>DEBUG: 远程请求结束
+2018-07-13 11:16:52==>DEBUG: 开始解析XML
+2018-07-13 11:16:52==>DEBUG: 解析XML结束
+2018-07-13 11:18:27==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:18:27==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:18:27==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111821-3016-4078^0^330100D1560000050100843FFA127048|20180713111821|^1^
+2018-07-13 11:18:27==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111821-3016-4078^0^330100D1560000050100843FFA127048|20180713111821|^1^
+2018-07-13 11:18:27==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:18:27==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417194367"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111823-3016-4780^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:18:27==>DEBUG: 远程请求结束
+2018-07-13 11:18:27==>DEBUG: 开始解析XML
+2018-07-13 11:18:27==>DEBUG: 解析XML结束
+2018-07-13 11:20:01==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:20:01==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:20:01==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111955-3016-5160^0^330100D1560000050100843FFA127048|20180713111955|^1^
+2018-07-13 11:20:01==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713111955-3016-5160^0^330100D1560000050100843FFA127048|20180713111955|^1^
+2018-07-13 11:20:01==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:20:02==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417295613"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713111957-3016-4888^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:20:02==>DEBUG: 远程请求结束
+2018-07-13 11:20:02==>DEBUG: 开始解析XML
+2018-07-13 11:20:02==>DEBUG: 解析XML结束
+2018-07-13 11:26:54==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:26:54==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:26:54==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713112648-3016-1389^0^330100D1560000050100843FFA127048|20180713112648|^1^
+2018-07-13 11:26:54==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713112648-3016-1389^0^330100D1560000050100843FFA127048|20180713112648|^1^
+2018-07-13 11:26:54==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:26:54==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417747871"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713112650-3016-5616^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:26:54==>DEBUG: 远程请求结束
+2018-07-13 11:26:54==>DEBUG: 开始解析XML
+2018-07-13 11:26:54==>DEBUG: 解析XML结束
+2018-07-13 11:27:40==>INFORMATION: ****************************************************************
+2018-07-13 11:27:40==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:27:40==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:27:40==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:27:40==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:27:40==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:27:40==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:27:40==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:27:40==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417816860"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:27:40==>DEBUG: 远程请求结束
+2018-07-13 11:27:40==>DEBUG: 开始解析XML
+2018-07-13 11:27:40==>DEBUG: 解析XML结束
+2018-07-13 11:27:40==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:27:40==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:27:40==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713112734-3016-0438^0^330100D1560000050100843FFA127048|20180713112734|^1^
+2018-07-13 11:27:40==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713112734-3016-0438^0^330100D1560000050100843FFA127048|20180713112734|^1^
+2018-07-13 11:27:40==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:27:41==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417813496"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713112736-3016-9249^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:27:41==>DEBUG: 远程请求结束
+2018-07-13 11:27:41==>DEBUG: 开始解析XML
+2018-07-13 11:27:41==>DEBUG: 解析XML结束
+2018-07-13 11:28:14==>INFORMATION: ****************************************************************
+2018-07-13 11:28:14==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:28:14==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:28:14==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:28:14==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:28:14==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:28:14==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:28:14==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:28:14==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417848072"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:28:14==>DEBUG: 远程请求结束
+2018-07-13 11:28:14==>DEBUG: 开始解析XML
+2018-07-13 11:28:14==>DEBUG: 解析XML结束
+2018-07-13 11:28:54==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:28:54==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:28:54==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713112848-3016-9570^0^330100D1560000050100843FFA127048|20180713112848|^1^
+2018-07-13 11:28:54==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713112848-3016-9570^0^330100D1560000050100843FFA127048|20180713112848|^1^
+2018-07-13 11:28:54==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:28:54==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005417907880"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713112850-3016-6484^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:28:54==>DEBUG: 远程请求结束
+2018-07-13 11:28:54==>DEBUG: 开始解析XML
+2018-07-13 11:28:54==>DEBUG: 解析XML结束
+2018-07-13 11:33:54==>INFORMATION: ****************************************************************
+2018-07-13 11:33:54==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:33:54==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:33:54==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:33:54==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:33:54==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:33:54==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:33:54==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:33:54==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418081531"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:33:54==>DEBUG: 远程请求结束
+2018-07-13 11:33:54==>DEBUG: 开始解析XML
+2018-07-13 11:33:54==>DEBUG: 解析XML结束
+2018-07-13 11:33:56==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:33:56==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:33:56==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113350-3016-8391^0^330100D1560000050100843FFA127048|20180713113349|^1^
+2018-07-13 11:33:56==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113350-3016-8391^0^330100D1560000050100843FFA127048|20180713113349|^1^
+2018-07-13 11:33:56==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:33:56==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418081584"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113352-3016-2949^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:33:56==>DEBUG: 远程请求结束
+2018-07-13 11:33:56==>DEBUG: 开始解析XML
+2018-07-13 11:33:56==>DEBUG: 解析XML结束
+2018-07-13 11:34:13==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:34:13==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:34:13==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113407-3016-5192^0^330100D1560000050100843FFA127048|20180713113407|^1^
+2018-07-13 11:34:13==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113407-3016-5192^0^330100D1560000050100843FFA127048|20180713113407|^1^
+2018-07-13 11:34:13==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:34:13==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418082328"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113409-3016-4096^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:34:13==>DEBUG: 远程请求结束
+2018-07-13 11:34:13==>DEBUG: 开始解析XML
+2018-07-13 11:34:13==>DEBUG: 解析XML结束
+2018-07-13 11:34:48==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:34:48==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:34:48==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113442-3016-7598^0^330100D1560000050100843FFA127048|20180713113442|^1^
+2018-07-13 11:34:48==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113442-3016-7598^0^330100D1560000050100843FFA127048|20180713113442|^1^
+2018-07-13 11:34:48==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:34:48==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418086681"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113444-3016-6572^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:34:48==>DEBUG: 远程请求结束
+2018-07-13 11:34:48==>DEBUG: 开始解析XML
+2018-07-13 11:34:48==>DEBUG: 解析XML结束
+2018-07-13 11:35:08==>INFORMATION: ****************************************************************
+2018-07-13 11:35:08==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:35:08==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:35:08==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:35:08==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:35:08==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:35:08==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:35:08==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:35:08==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418088590"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:35:08==>DEBUG: 远程请求结束
+2018-07-13 11:35:08==>DEBUG: 开始解析XML
+2018-07-13 11:35:08==>DEBUG: 解析XML结束
+2018-07-13 11:35:08==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:35:08==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:35:08==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113502-3016-8937^0^330100D1560000050100843FFA127048|20180713113502|^1^
+2018-07-13 11:35:08==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113502-3016-8937^0^330100D1560000050100843FFA127048|20180713113502|^1^
+2018-07-13 11:35:08==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:35:08==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418088600"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113504-3016-7895^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:35:08==>DEBUG: 远程请求结束
+2018-07-13 11:35:08==>DEBUG: 开始解析XML
+2018-07-13 11:35:08==>DEBUG: 解析XML结束
+2018-07-13 11:35:47==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:35:47==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:35:47==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113541-3016-9343^0^330100D1560000050100843FFA127048|20180713113541|^1^
+2018-07-13 11:35:47==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113541-3016-9343^0^330100D1560000050100843FFA127048|20180713113541|^1^
+2018-07-13 11:35:47==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:35:48==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418093121"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113543-3016-1707^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:35:48==>DEBUG: 远程请求结束
+2018-07-13 11:35:48==>DEBUG: 开始解析XML
+2018-07-13 11:35:48==>DEBUG: 解析XML结束
+2018-07-13 11:38:05==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:38:05==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:38:05==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113759-3016-4875^0^330100D1560000050100843FFA127048|20180713113759|^1^
+2018-07-13 11:38:05==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113759-3016-4875^0^330100D1560000050100843FFA127048|20180713113759|^1^
+2018-07-13 11:38:05==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:38:05==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418110280"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113801-3016-1832^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:38:05==>DEBUG: 远程请求结束
+2018-07-13 11:38:05==>DEBUG: 开始解析XML
+2018-07-13 11:38:05==>DEBUG: 解析XML结束
+2018-07-13 11:39:31==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:39:31==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:39:31==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113924-3016-5305^0^330100D1560000050100843FFA127048|20180713113924|^1^
+2018-07-13 11:39:31==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713113924-3016-5305^0^330100D1560000050100843FFA127048|20180713113924|^1^
+2018-07-13 11:39:31==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:39:31==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418120550"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713113926-3016-7381^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:39:31==>DEBUG: 远程请求结束
+2018-07-13 11:39:31==>DEBUG: 开始解析XML
+2018-07-13 11:39:31==>DEBUG: 解析XML结束
+2018-07-13 11:40:06==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:40:06==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:40:06==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713114000-3016-2542^0^330100D1560000050100843FFA127048|20180713114000|^1^
+2018-07-13 11:40:06==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713114000-3016-2542^0^330100D1560000050100843FFA127048|20180713114000|^1^
+2018-07-13 11:40:06==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:40:06==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418124436"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713114002-3016-9901^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:40:06==>DEBUG: 远程请求结束
+2018-07-13 11:40:06==>DEBUG: 开始解析XML
+2018-07-13 11:40:06==>DEBUG: 解析XML结束
+2018-07-13 11:42:42==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:42:42==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:42:42==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713114235-3016-2228^0^330100D1560000050100843FFA127048|20180713114235|^1^
+2018-07-13 11:42:42==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713114235-3016-2228^0^330100D1560000050100843FFA127048|20180713114235|^1^
+2018-07-13 11:42:42==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:42:42==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418247213"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713114237-3016-2404^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:42:42==>DEBUG: 远程请求结束
+2018-07-13 11:42:42==>DEBUG: 开始解析XML
+2018-07-13 11:42:42==>DEBUG: 解析XML结束
+2018-07-13 11:45:30==>INFORMATION: ****************************************************************
+2018-07-13 11:45:30==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 11:45:30==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 11:45:30==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:45:30==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:45:30==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:45:30==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 11:45:30==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:45:30==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418412396"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:45:30==>DEBUG: 远程请求结束
+2018-07-13 11:45:30==>DEBUG: 开始解析XML
+2018-07-13 11:45:30==>DEBUG: 解析XML结束
+2018-07-13 11:45:31==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:45:31==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:45:31==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713114525-3016-6731^0^330100D1560000050100843FFA127048|20180713114525|^1^
+2018-07-13 11:45:31==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713114525-3016-6731^0^330100D1560000050100843FFA127048|20180713114525|^1^
+2018-07-13 11:45:31==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:45:31==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418428461"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713114527-3016-3638^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:45:31==>DEBUG: 远程请求结束
+2018-07-13 11:45:31==>DEBUG: 开始解析XML
+2018-07-13 11:45:31==>DEBUG: 解析XML结束
+2018-07-13 11:52:49==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 11:52:49==>DEBUG: 远程请求==>default：开始
+2018-07-13 11:52:49==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713115243-3016-4441^0^330100D1560000050100843FFA127048|20180713115242|^1^
+2018-07-13 11:52:49==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713115243-3016-4441^0^330100D1560000050100843FFA127048|20180713115242|^1^
+2018-07-13 11:52:49==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 11:53:01==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005418810397"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713115257-3016-1517^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 11:53:01==>DEBUG: 远程请求结束
+2018-07-13 11:53:01==>DEBUG: 开始解析XML
+2018-07-13 11:53:01==>DEBUG: 解析XML结束
+2018-07-13 12:11:30==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 12:11:30==>DEBUG: 远程请求==>default：开始
+2018-07-13 12:11:30==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713121124-3016-3557^0^330100D1560000050100843FFA127048|20180713121123|^1^
+2018-07-13 12:11:30==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713121124-3016-3557^0^330100D1560000050100843FFA127048|20180713121123|^1^
+2018-07-13 12:11:30==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 12:11:30==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005419247587"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713121126-3016-3956^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 12:11:30==>DEBUG: 远程请求结束
+2018-07-13 12:11:30==>DEBUG: 开始解析XML
+2018-07-13 12:11:30==>DEBUG: 解析XML结束
+2018-07-13 12:13:26==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 12:13:26==>DEBUG: 远程请求==>default：开始
+2018-07-13 12:13:26==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713121320-3016-6399^0^330100D1560000050100843FFA127048|20180713121313|^1^
+2018-07-13 12:13:26==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713121320-3016-6399^0^330100D1560000050100843FFA127048|20180713121313|^1^
+2018-07-13 12:13:26==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 12:13:26==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005419336797"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713121322-3016-8214^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 12:13:26==>DEBUG: 远程请求结束
+2018-07-13 12:13:26==>DEBUG: 开始解析XML
+2018-07-13 12:13:26==>DEBUG: 解析XML结束
+2018-07-13 12:20:11==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 12:20:11==>DEBUG: 远程请求==>default：开始
+2018-07-13 12:20:11==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713122005-3016-1102^0^330100D1560000050100843FFA127048|20180713122004|^1^
+2018-07-13 12:20:11==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713122005-3016-1102^0^330100D1560000050100843FFA127048|20180713122004|^1^
+2018-07-13 12:20:11==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 12:20:11==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005419351948"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713122007-3016-3758^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 12:20:11==>DEBUG: 远程请求结束
+2018-07-13 12:20:11==>DEBUG: 开始解析XML
+2018-07-13 12:20:11==>DEBUG: 解析XML结束
+2018-07-13 13:43:41==>INFORMATION: ****************************************************************
+2018-07-13 13:43:41==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 13:43:41==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 13:43:41==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:43:41==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:43:41==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 13:43:41==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 13:43:41==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:43:41==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421152561"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:43:41==>DEBUG: 远程请求结束
+2018-07-13 13:43:41==>DEBUG: 开始解析XML
+2018-07-13 13:43:41==>DEBUG: 解析XML结束
+2018-07-13 13:44:11==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:44:11==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:44:11==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134405-3016-3565^0^330100D1560000050100843FFA127048|20180713134336|^1^
+2018-07-13 13:44:11==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134405-3016-3565^0^330100D1560000050100843FFA127048|20180713134336|^1^
+2018-07-13 13:44:11==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:44:11==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421156355"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134407-3016-2217^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:44:11==>DEBUG: 远程请求结束
+2018-07-13 13:44:11==>DEBUG: 开始解析XML
+2018-07-13 13:44:11==>DEBUG: 解析XML结束
+2018-07-13 13:45:54==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:45:54==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:45:54==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134548-3016-8599^0^330100D1560000050100843FFA127048|20180713134548|^1^
+2018-07-13 13:45:54==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134548-3016-8599^0^330100D1560000050100843FFA127048|20180713134548|^1^
+2018-07-13 13:45:54==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:45:54==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421174813"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134550-3016-4571^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:45:54==>DEBUG: 远程请求结束
+2018-07-13 13:45:54==>DEBUG: 开始解析XML
+2018-07-13 13:45:54==>DEBUG: 解析XML结束
+2018-07-13 13:46:26==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:46:26==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:46:26==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134620-3016-0541^0^330100D1560000050100843FFA127048|20180713134620|^1^
+2018-07-13 13:46:26==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134620-3016-0541^0^330100D1560000050100843FFA127048|20180713134620|^1^
+2018-07-13 13:46:26==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:46:26==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421179825"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134622-3016-8078^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:46:26==>DEBUG: 远程请求结束
+2018-07-13 13:46:26==>DEBUG: 开始解析XML
+2018-07-13 13:46:26==>DEBUG: 解析XML结束
+2018-07-13 13:46:35==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:46:35==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:46:35==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134629-3016-2426^0^330100D1560000050100843FFA127048|20180713134629|^1^
+2018-07-13 13:46:35==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134629-3016-2426^0^330100D1560000050100843FFA127048|20180713134629|^1^
+2018-07-13 13:46:35==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:46:35==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421180368"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134631-3016-9219^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:46:35==>DEBUG: 远程请求结束
+2018-07-13 13:46:35==>DEBUG: 开始解析XML
+2018-07-13 13:46:35==>DEBUG: 解析XML结束
+2018-07-13 13:46:36==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:46:36==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:46:36==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134630-3016-9355^0^330100D1560000050100843FFA127048|20180713134630|^1^
+2018-07-13 13:46:36==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134630-3016-9355^0^330100D1560000050100843FFA127048|20180713134630|^1^
+2018-07-13 13:46:36==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:46:36==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421182417"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134632-3016-9268^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:46:36==>DEBUG: 远程请求结束
+2018-07-13 13:46:36==>DEBUG: 开始解析XML
+2018-07-13 13:46:36==>DEBUG: 解析XML结束
+2018-07-13 13:46:42==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:46:42==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:46:42==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134636-3016-0365^0^330100D1560000050100843FFA127048|20180713134636|^1^
+2018-07-13 13:46:42==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134636-3016-0365^0^330100D1560000050100843FFA127048|20180713134636|^1^
+2018-07-13 13:46:42==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:46:42==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421182853"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134638-3016-1101^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:46:42==>DEBUG: 远程请求结束
+2018-07-13 13:46:42==>DEBUG: 开始解析XML
+2018-07-13 13:46:42==>DEBUG: 解析XML结束
+2018-07-13 13:46:52==>INFORMATION: ****************************************************************
+2018-07-13 13:46:52==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 13:46:52==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 13:46:52==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:46:52==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:46:52==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 13:46:52==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 13:46:52==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:46:52==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421185492"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:46:52==>DEBUG: 远程请求结束
+2018-07-13 13:46:52==>DEBUG: 开始解析XML
+2018-07-13 13:46:52==>DEBUG: 解析XML结束
+2018-07-13 13:46:52==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:46:52==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:46:52==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134646-3016-5051^0^330100D1560000050100843FFA127048|20180713134646|^1^
+2018-07-13 13:46:52==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713134646-3016-5051^0^330100D1560000050100843FFA127048|20180713134646|^1^
+2018-07-13 13:46:52==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:46:52==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421185534"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713134648-3016-2409^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:46:52==>DEBUG: 远程请求结束
+2018-07-13 13:46:52==>DEBUG: 开始解析XML
+2018-07-13 13:46:52==>DEBUG: 解析XML结束
+2018-07-13 13:56:18==>INFORMATION: ****************************************************************
+2018-07-13 13:56:18==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 13:56:18==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 13:56:18==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:56:18==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:56:18==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 13:56:18==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 13:56:18==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:56:18==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421439702"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:56:18==>DEBUG: 远程请求结束
+2018-07-13 13:56:18==>DEBUG: 开始解析XML
+2018-07-13 13:56:18==>DEBUG: 解析XML结束
+2018-07-13 13:56:19==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 13:56:19==>DEBUG: 远程请求==>default：开始
+2018-07-13 13:56:19==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713135613-3016-6766^0^330100D1560000050100843FFA127048|20180713135613|^1^
+2018-07-13 13:56:19==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713135613-3016-6766^0^330100D1560000050100843FFA127048|20180713135613|^1^
+2018-07-13 13:56:19==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 13:56:19==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005421439749"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713135615-3016-2691^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 13:56:19==>DEBUG: 远程请求结束
+2018-07-13 13:56:19==>DEBUG: 开始解析XML
+2018-07-13 13:56:19==>DEBUG: 解析XML结束
+2018-07-13 14:42:56==>INFORMATION: ****************************************************************
+2018-07-13 14:42:56==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 14:42:56==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 14:42:56==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:42:56==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:42:56==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 14:42:56==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 14:42:56==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:42:56==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005422756248"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:42:56==>DEBUG: 远程请求结束
+2018-07-13 14:42:56==>DEBUG: 开始解析XML
+2018-07-13 14:42:56==>DEBUG: 解析XML结束
+2018-07-13 14:43:26==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:43:26==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:43:26==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713144320-3016-3118^0^330100D1560000050100843FFA127048|20180713144251|^1^
+2018-07-13 14:43:26==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713144320-3016-3118^0^330100D1560000050100843FFA127048|20180713144251|^1^
+2018-07-13 14:43:26==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:43:26==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005422760778"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713144322-3016-8287^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:43:26==>DEBUG: 远程请求结束
+2018-07-13 14:43:26==>DEBUG: 开始解析XML
+2018-07-13 14:43:26==>DEBUG: 解析XML结束
+2018-07-13 14:56:22==>INFORMATION: ****************************************************************
+2018-07-13 14:56:22==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 14:56:22==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 14:56:22==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:56:22==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:56:22==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 14:56:22==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 14:56:22==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:56:23==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005423129424"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:56:23==>DEBUG: 远程请求结束
+2018-07-13 14:56:23==>DEBUG: 开始解析XML
+2018-07-13 14:56:23==>DEBUG: 解析XML结束
+2018-07-13 14:56:24==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:56:24==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:56:24==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713145617-3016-0849^0^330100D1560000050100843FFA127048|20180713145617|^1^
+2018-07-13 14:56:24==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713145617-3016-0849^0^330100D1560000050100843FFA127048|20180713145617|^1^
+2018-07-13 14:56:24==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:56:24==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005423129548"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713145619-3016-9820^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:56:24==>DEBUG: 远程请求结束
+2018-07-13 14:56:24==>DEBUG: 开始解析XML
+2018-07-13 14:56:24==>DEBUG: 解析XML结束
+2018-07-13 14:56:24==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:56:24==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:56:24==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2210^3016^801016^20180713073515-3016-00801016-9262^20180713145618-3016-2345^4|284965396330250749^ZZjgqwsj16119710|11|20180713112426|J39.900|上呼吸道疾病||1200||||干爱琴|10255617||||^1^
+2018-07-13 14:56:24==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2210^3016^801016^20180713073515-3016-00801016-9262^20180713145618-3016-2345^4|284965396330250749^ZZjgqwsj16119710|11|20180713112426|J39.900|涓婂懠鍚搁亾鐤剧梾||1200||||骞茬埍鐞磡10255617||||^1^
+2018-07-13 14:56:24==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:56:25==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005423129653"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713145620-3016-9865^1^11||^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:56:25==>DEBUG: 远程请求结束
+2018-07-13 14:56:25==>DEBUG: 开始解析XML
+2018-07-13 14:56:25==>DEBUG: 解析XML结束
+2018-07-13 14:56:25==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:56:25==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:56:25==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2310^3016^801016^20180713073515-3016-00801016-9262^20180713145618-3016-9492^000000^ZZjgqwsj16119710|1|11|4025070|9088120|20180713000000|9700|氨溴索片|x140100006680077|4.9000|1.0000|4.9|A025|30mg*20|盒|1|0||0|1.0|4.9|盒|口服|1.0|13|7|1|0200|全科医疗科|YB200133110330104740202132|钱芳|干爱琴|0||0|$ZZjgqwsj16119710|2|29|6481672|10542789|20180713112430|7|一般诊疗费（服务中心）|f11030000101|10.0|1.0|10.0|||null|1|0||0|1.0|10.0|人次||1.0|||1|0200|全科医疗科|YB200133110330104740202132|钱芳|干爱琴|0||0|$^1^
+2018-07-13 14:56:25==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2310^3016^801016^20180713073515-3016-00801016-9262^20180713145618-3016-9492^000000^ZZjgqwsj16119710|1|11|4025070|9088120|20180713000000|9700|姘ㄦ捍绱㈢墖|x140100006680077|4.9000|1.0000|4.9|A025|30mg*20|鐩抾1|0||0|1.0|4.9|鐩抾鍙ｆ湇|1.0|13|7|1|0200|鍏ㄧ鍖荤枟绉憒YB200133110330104740202132|閽辫姵|骞茬埍鐞磡0||0|$ZZjgqwsj16119710|2|29|6481672|10542789|20180713112430|7|涓�鑸瘖鐤楄垂锛堟湇鍔′腑蹇冿級|f11030000101|10.0|1.0|10.0|||null|1|0||0|1.0|10.0|浜烘||1.0|||1|0200|鍏ㄧ鍖荤枟绉憒YB200133110330104740202132|閽辫姵|骞茬埍鐞磡0||0|$^1^
+2018-07-13 14:56:25==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:56:25==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005423129683"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713145621-3016-9877^1^ZZjgqwsj16119710|4025070|9088120|4.9|0.0|0.0|11|1|0|0.0|4.9||$ZZjgqwsj16119710|6481672|10542789|10.0|0.0|0.0|29|1|0|0.0|10.0||$^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:56:25==>DEBUG: 远程请求结束
+2018-07-13 14:56:25==>DEBUG: 开始解析XML
+2018-07-13 14:56:25==>DEBUG: 解析XML结束
+2018-07-13 14:56:25==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 14:56:25==>DEBUG: 远程请求==>default：开始
+2018-07-13 14:56:25==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2420^3016^801016^20180713073515-3016-00801016-9262^20180713145619-3016-8409^000000^ZZjgqwsj16119710||11|20180713145619|20180713145619|1|0|J39.900|上呼吸道疾病|||||||||||||||14.9|干爱琴||||10255617|^1^
+2018-07-13 14:56:25==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2420^3016^801016^20180713073515-3016-00801016-9262^20180713145619-3016-8409^000000^ZZjgqwsj16119710||11|20180713145619|20180713145619|1|0|J39.900|涓婂懠鍚搁亾鐤剧梾|||||||||||||||14.9|骞茬埍鐞磡|||10255617|^1^
+2018-07-13 14:56:25==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 14:56:25==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005423129708"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="PREVIEWFLAG" paraValue="1"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713145621-3016-9889^1^3016|10255617|ZZjgqwsj16119710||1|20180713145619-3016-8409|20180713145621-3016-9889|14.9|4.9|1.0|0.0|14.9|0.0|0.0|0.0|1.0|0.0|800.59|844.51|0|0.0|0.0|0.0|0.0|20180713145619|20180713073515-3016-00801016-9262|201807131456201722|0.0|0.0|0.0|0.0|0.0|0.0|9.0|0.0||0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 14:56:25==>DEBUG: 远程请求结束
+2018-07-13 14:56:25==>DEBUG: 开始解析XML
+2018-07-13 14:56:25==>DEBUG: 解析XML结束
+2018-07-13 17:08:01==>INFORMATION: ****************************************************************
+2018-07-13 17:08:01==>INFORMATION: eapagent.dll开始初始化：
+2018-07-13 17:08:01==>INFORMATION: eapagent.dll初始化成功！
+
+2018-07-13 17:08:01==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 17:08:01==>DEBUG: 远程请求==>default：开始
+2018-07-13 17:08:01==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 17:08:01==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2018-07-13 17:08:01==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 17:08:01==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005424661734"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue="1260$403:$517:$000:$^1270$403:$516:$000:$^2100$403:$000:$^2110$000:$^2210$403:$000:$^2230$403:$000:$^2240$403:$000:$^2410$403:$516:$000:$^2421$000:$^2430$403:$000:$^2440$403:$000:$^5000$005:$^5110$005:$^5130$005:$^5150$005:$^5170$005:$^5180$005:$^5210$005:$^"/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="^^^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 17:08:01==>DEBUG: 远程请求结束
+2018-07-13 17:08:01==>DEBUG: 开始解析XML
+2018-07-13 17:08:01==>DEBUG: 解析XML结束
+2018-07-13 17:08:03==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 17:08:03==>DEBUG: 远程请求==>default：开始
+2018-07-13 17:08:03==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713170757-3016-5963^0^330100D1560000050100843FFA127048|20180713170756|^1^
+2018-07-13 17:08:03==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2100^3016^801016^20180713073515-3016-00801016-9262|330100^20180713170757-3016-5963^0^330100D1560000050100843FFA127048|20180713170756|^1^
+2018-07-13 17:08:03==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 17:08:03==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005424661771"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713170759-3016-5177^1^10255617|0109177|创业软件股份有限公司|330104198410083034|沈利峰|1|01|19841008|A2835900X|11|00320896|330100|2018|0|805.49|845.51|0000000000|3||000|0|+|166.51|10.14|0.0|0.0|0.0|0.0|0|330100D1560000050100843FFA127048|12|0.0|0.0|1||^^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 17:08:03==>DEBUG: 远程请求结束
+2018-07-13 17:08:03==>DEBUG: 开始解析XML
+2018-07-13 17:08:03==>DEBUG: 解析XML结束
+2018-07-13 17:08:09==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 17:08:09==>DEBUG: 远程请求==>default：开始
+2018-07-13 17:08:09==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2210^3016^801016^20180713073515-3016-00801016-9262^20180713170802-3016-9842^4|284965396330250749^ZZjgqwsj16122071|11|20180713112426|J39.900|上呼吸道疾病||1200||||干爱琴|10255617||||^1^
+2018-07-13 17:08:09==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2210^3016^801016^20180713073515-3016-00801016-9262^20180713170802-3016-9842^4|284965396330250749^ZZjgqwsj16122071|11|20180713112426|J39.900|涓婂懠鍚搁亾鐤剧梾||1200||||骞茬埍鐞磡10255617||||^1^
+2018-07-13 17:08:09==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 17:08:09==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005424661883"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713170805-3016-5488^1^11||^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 17:08:09==>DEBUG: 远程请求结束
+2018-07-13 17:08:09==>DEBUG: 开始解析XML
+2018-07-13 17:08:09==>DEBUG: 解析XML结束
+2018-07-13 17:08:09==>DEBUG: ----------------------------------------------------------------------
+2018-07-13 17:08:09==>DEBUG: 远程请求==>default：开始
+2018-07-13 17:08:09==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2310^3016^801016^20180713073515-3016-00801016-9262^20180713170803-3016-7390^000000^ZZjgqwsj16122071|1|11|4025070|9088120|20180713000000|9700|氨溴索片|x140100006680077|4.9000|1.0000|4.9|A025|30mg*20|盒|1|1||0|1.0|4.9|盒|口服|1.0|13|7|1|0200|全科医疗科|YB200133110330104740202132|钱芳|干爱琴|0||0|$ZZjgqwsj16122071|2|29|6481672|10542789|20180713112430|7|一般诊疗费（服务中心）|f11030000101|10.0|1.0|10.0|||null|1|0||0|1.0|10.0|人次||1.0|||1|0200|全科医疗科|YB200133110330104740202132|钱芳|干爱琴|0||0|$^1^
+2018-07-13 17:08:09==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&busiType=1&cardInfo=&dllParam=507B9D76E1D8||||||&dllparm=&eap_password=&eap_username=&inputData=2310^3016^801016^20180713073515-3016-00801016-9262^20180713170803-3016-7390^000000^ZZjgqwsj16122071|1|11|4025070|9088120|20180713000000|9700|姘ㄦ捍绱㈢墖|x140100006680077|4.9000|1.0000|4.9|A025|30mg*20|鐩抾1|1||0|1.0|4.9|鐩抾鍙ｆ湇|1.0|13|7|1|0200|鍏ㄧ鍖荤枟绉憒YB200133110330104740202132|閽辫姵|骞茬埍鐞磡0||0|$ZZjgqwsj16122071|2|29|6481672|10542789|20180713112430|7|涓�鑸瘖鐤楄垂锛堟湇鍔′腑蹇冿級|f11030000101|10.0|1.0|10.0|||null|1|0||0|1.0|10.0|浜烘||1.0|||1|0200|鍏ㄧ鍖荤枟绉憒YB200133110330104740202132|閽辫姵|骞茬埍鐞磡0||0|$^1^
+2018-07-13 17:08:09==>DEBUG: 远程请求编码格式==>UTF-8
+2018-07-13 17:08:09==>DEBUG: OUTPUT FROM SERVER = 
+<reponseEnvelope><header><appCode>0</appCode><errorMessage briefMessage="" detailMessage=""/></header><body><parameters><parameter paraName="$ARCHIVEFLAG$" paraValue="FALSE"/><parameter paraName="$SAVEPAGEFLAG$" paraValue="0"/><parameter paraName="$OPERATEID$" paraValue="2000005424661890"/><parameter paraName="$YW_PASS_TIME_RESET$" paraValue="true"/><parameter paraName="BARCODE" paraValue=""/><parameter paraName="busiConfig" paraValue=""/><parameter paraName="$BUSINESSID$" paraValue="UCK106"/><parameter paraName="$BUSINESSREQUESTID$" paraValue="REQ-KF-M-011-00"/><parameter paraName="writeCardInfo" paraValue=""/><parameter paraName="outputData" paraValue="20180713170805-3016-5495^1^ZZjgqwsj16122071|4025070|9088120|4.9|0.0|4.9|11|1|1|1.0|4.9|##医院上传的是全额自费标志，请确认|$ZZjgqwsj16122071|6481672|10542789|10.0|0.0|0.0|29|1|0|0.0|10.0||$^0|||^"/><parameter paraName="cardConfig" paraValue=""/></parameters><dataStores></dataStores></body></reponseEnvelope>
+2018-07-13 17:08:09==>DEBUG: 远程请求结束
+2018-07-13 17:08:09==>DEBUG: 开始解析XML
+2018-07-13 17:08:09==>DEBUG: 解析XML结束

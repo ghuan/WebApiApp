@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>ATL 3.0 test page for object SiInterface</TITLE>
+</HEAD>
+<script language="javascript" src="PHISActiveXUtils.js"></script> 
+<script type="text/javascript">
+	function Init()
+	{
+		$PhisActiveXObjectUtils.initHtmlElement();
+		var o = $PhisActiveXObjectUtils.getObject();
+		var csh = o.Hz_INIT();//初始化
+		if(csh.split("|")[0] != 0){
+			alert("市医保初始化失败!" + csh);
+		} else {
+			alert("市医保初始化成功!");
+		}
+		
+		
+	}
+	function Business(){
+		$PhisActiveXObjectUtils.initHtmlElement();
+		var o = $PhisActiveXObjectUtils.getObject();
+		var csh = o.Hz_INIT();//初始化
+		var res = o.Hz_BUSINESS("1800^3032^55^^1111111111^000000^^1^");
+		alert("中心端时间：" + res)
+		document.getElementById("output").value = output
+	}
+</SCRIPT>
+<BODY>
+<input type="button" value="初始化" onclick="Init();" />
+业务参数: <input type="text" name="plain111" id = "plain" />
+<br><br/>
+<input type="button" value="业务" onclick="Business();" />
+<br><br/>
+输出参数: <input type="text" name="output" id = "output" />
+<br><br/>
+<input type="button" value="拆分" onclick="Business();" />
+</BODY>
+</HTML>

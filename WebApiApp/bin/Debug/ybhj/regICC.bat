@@ -1,0 +1,1 @@
+regsvr32 "C:\Program Files\Mozilla Firefox\ICCInter.ocx"
